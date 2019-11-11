@@ -59,4 +59,4 @@ We created this Time Table Scheduling Program as part of a programming assignmen
 Any suggestions in improving are appreciated.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU GPLv3](https://github.com/jagtapraj123/time_table_scheduling_SAT/blob/master/LICENSE)
