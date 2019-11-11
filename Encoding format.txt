@@ -1,0 +1,26 @@
+A --> Assignment
+c --> course
+p --> prof
+r --> classroom
+s --> students
+d --> day
+t --> time
+
+Acdt --> Assignment of course - day - time
+Acndt --> Assignment of course - nth lecture - day - time
+Acrdt --> Assignment of course - classroom - day - time
+Acpdt --> Assignment of course - professor - day - time
+Acbdt --> Assignment of course - student batch - day - time
+
+Constraints:
+1. All the n lectures of every course are given time atleast once.
+2. All the n lectures of every course are given time atmost once.
+(1) and (2) --> All lectures are scheduled as per requirenment.
+
+3. No course should be scheduled more than once in a day.
+
+4. No classroom is booked for more than one course on any day at any time.
+
+5. No professor can have more than one lecture on the same day and time.
+
+6. No student batch can have more than one lecture on the same day and time.
